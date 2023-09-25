@@ -1,3 +1,4 @@
+//Module 2 assignment
 
 // 1 declaring variables in camel case notation
 // let someMonth;

@@ -1,4 +1,4 @@
-// document.write("declaring variables")
+
 // 1 declaring variables in camel case notation
 // let someMonth;
 // function theMonth() {}
